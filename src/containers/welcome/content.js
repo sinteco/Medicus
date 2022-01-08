@@ -9,7 +9,7 @@ import RegisterForm from "./register.js";
 function ContentMedia() {
     return (
         <FluidContainer className="md-wc-banner">
-            <h1 className="text-center font-weight-bold">medicus</h1>
+            <h1 className="text-center font-weight-bold">Give Mission</h1>
             <h4 className="text-center">Your Physician. Any time. Any where.</h4>
         </FluidContainer>
     );
